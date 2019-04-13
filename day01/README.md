@@ -3,7 +3,7 @@
 Backdrop Widget Flutter
 
 ## :camera: Output
-<img src="screenshots/day01.gif" width="400">
+<img src="screenshot/day01.gif" width="400">
 
 ## Reference
 
